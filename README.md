@@ -23,6 +23,7 @@ O **Twitch Better Notify** foi desenvolvido para melhorar sua experiência de ac
    Crie um arquivo `.env` na mesma pasta do executável com suas credenciais da Twitch:
 
 TWITCH_CLIENT_ID=seu_client_id_aqui
+
 TWITCH_CLIENT_SECRET=seu_secret_aqui
 
 2. **Adicionar canais**
